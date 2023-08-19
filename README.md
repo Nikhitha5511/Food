@@ -12,4 +12,4 @@ To get started, follow these steps:
 
 ## Hosted Link
 
-The project is hosted [here](https://nikhitha5511.github.io/Food/).
+https://nikhitha5511.github.io/Food/
