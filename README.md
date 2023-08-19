@@ -11,5 +11,4 @@ To get started, follow these steps:
 3. Run the project.
 
 ## Hosted Link
-
 https://nikhitha5511.github.io/Food/
